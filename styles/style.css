@@ -307,22 +307,20 @@ textarea{
     .resume,
     .footer-sec,
     .work,
-    .nav-bar,
-    .about,
-    .hero-container {
+    .about {
         margin: 10px;
+    }
+    .nav-bar, .hero-container{
+        margin: 0 5px;
     }
     .resume-title,
     .btn-secendary{
         margin: 30px;
     }
     .hero-img{
-        width: 100%;
-        margin: 0 auto;
-        text-align: center;
+        width: 80%;
     }
-    .profile-pic{
-        margin: 0;
+    .profile-pic {
         width: 100%;
         height: 100%;
     }
